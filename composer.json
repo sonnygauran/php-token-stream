@@ -1,0 +1,6 @@
+{
+	"name": "phpunit/php-token-stream",
+	"type": "library",
+	"description": "Wrapper around PHP's tokenizer extension",
+	"keywords": ["token","tokenizer","stream","unit","testing","php"]
+}
